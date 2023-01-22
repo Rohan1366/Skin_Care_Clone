@@ -10,7 +10,7 @@
 
 
 
-<a href="https://hilarious-donut-4d9a54.netlify.app/" alt="link">FirstCry Link<a>
+<a href="https://hilarious-donut-4d9a54.netlify.app/" alt="link">SkinStore Link<a>
 
 ## tech stack --> HTML CSS JS LocalStorage
 
