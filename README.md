@@ -1,14 +1,12 @@
 # Skin_Care_Clone
 
 ## SkineStore 
-#This was a collaborative project made by 4 members Executed in 5 days.
+# This was a collaborative project made by 4 members Executed in 5 days.
 
-Shubham
-Sai Reddy
-Bhargavi
-Arjun Singh
-Arun Rajwar
-Sagar
+* Rohan
+* Prathmesh
+* Prabhanshu
+* Shoaib
 
 
 
