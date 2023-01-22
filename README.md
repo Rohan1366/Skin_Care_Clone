@@ -28,6 +28,6 @@
 
 <image src="./images/login.png">
 
-### Products detail
+### cart page
 
 <image src="./images/cart.png">
