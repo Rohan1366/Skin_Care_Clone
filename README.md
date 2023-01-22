@@ -1,5 +1,17 @@
 # Skin_Care_Clone
+
 ## SkineStore 
+#This was a collaborative project made by 4 members Executed in 5 days.
+
+Shubham
+Sai Reddy
+Bhargavi
+Arjun Singh
+Arun Rajwar
+Sagar
+
+
+
 <a href="https://hilarious-donut-4d9a54.netlify.app/" alt="link">FirstCry Link<a>
 
 ## tech stack --> HTML CSS JS LocalStorage
